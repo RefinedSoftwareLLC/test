@@ -1,1 +1,19 @@
+# Site theme
 remote_theme: alixedi/typewriter
+
+# Site settings
+title: "Test"
+description: "Private Eye"
+baseurl: ""
+url: "https://refinedsoftwarellc.github.io/test"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+paginate: 3
+
+# Links
+links:
+  - title: "git"
+    url: https://refinedsoftwarellc.github.io/test
