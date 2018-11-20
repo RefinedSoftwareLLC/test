@@ -7,12 +7,6 @@ description: "Private Eye"
 baseurl: ""
 url: "https://refinedsoftwarellc.github.io/test"
 
-# Build settings
-markdown: kramdown
-permalink: pretty
-highlighter: pygments
-paginate: 3
-
 # Links
 links:
   - title: "git"
