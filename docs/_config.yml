@@ -1,13 +1,22 @@
-# Site theme
-remote_theme: alixedi/typewriter
-
 # Site settings
-title: "Test"
-description: "Private Eye"
+title: "Typewriter"
+description: "So I was feeling nostalgic."
 baseurl: ""
-url: "https://refinedsoftwarellc.github.io/test"
+url: "http://alixedi.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+paginate: 3
 
 # Links
 links:
+  - title: "abt"
+    url: /about
+  - title: "twt"
+    url: http://twitter.com/alixedi
   - title: "git"
-    url: https://github.com/RefinedSoftwareLLC/test
+    url: http://github.com/alixedi
+  - title: "rss"
+    url: /feed.xml
